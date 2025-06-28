@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/complications/static/css/main.ad4bbdcc.css",
+    "main.js": "/complications/static/js/main.09387f0c.js",
+    "index.html": "/complications/index.html",
+    "main.ad4bbdcc.css.map": "/complications/static/css/main.ad4bbdcc.css.map",
+    "main.09387f0c.js.map": "/complications/static/js/main.09387f0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad4bbdcc.css",
+    "static/js/main.09387f0c.js"
+  ]
+}
